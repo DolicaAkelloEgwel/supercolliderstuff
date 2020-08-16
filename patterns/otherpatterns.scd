@@ -21,3 +21,11 @@ Pbind(
 ).trace.play;
 )
 // Pslide - don't understand this one yet...
+
+(
+Pbind(
+    \note, Pseries(0, 2, 15),
+    \dur, 0.15;
+).trace.play;
+)
+// Pseries - Self explanatory?
