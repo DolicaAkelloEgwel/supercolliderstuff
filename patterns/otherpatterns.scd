@@ -4,3 +4,4 @@ Pbind(
     \dur, 0.15;
 ).trace.play;
 )
+// repeats variable gives the number of items returned instead of the number of complete cycles.
