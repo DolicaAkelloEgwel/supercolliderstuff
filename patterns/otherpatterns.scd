@@ -29,3 +29,27 @@ Pbind(
 ).trace.play;
 )
 // Pseries - Self explanatory?
+
+(
+Pbind(
+    \note, Pseries(0, 2, 15),
+    \dur, Pgeom(0.1, 0.9, 25);
+).trace.play;
+)
+// Pgeom - exponetial decrease in duration
+
+(
+Pbind(
+    \note, Pseries(0, 2, 15),
+    \dur, Pgeom(0.1, 1.1, 25);
+).trace.play;
+)
+// Pgeom- exponential increase in duration
+
+(
+Pbind(
+    \note, Pseries(0, 2, 15),
+    \dur, Pgeom(0.1, 1, 25);
+).trace.play;
+)
+// Pgeom - constant duration...no point using it for this!
