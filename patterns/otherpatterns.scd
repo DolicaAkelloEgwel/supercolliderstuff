@@ -52,4 +52,6 @@ Pbind(
     \dur, Pgeom(0.1, 1, 25);
 ).trace.play;
 )
-// Pgeom - constant duration...no point using it for this!
+// Pgeom - constant duration...absolutely no point using it for this!
+
+
