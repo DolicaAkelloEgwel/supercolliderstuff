@@ -54,4 +54,19 @@ Pbind(
 )
 // Pgeom - constant duration...absolutely no point using it for this!
 
+(
+Pbind(
+    \note, Pseq([0,Pn(2,3), 3, Pn(5,3), 7, Pn(8,3), 11, 12], 1),
+    \dur, 0.15;
+).trace.play;
+)
+// Pn - repeatedly embed a pattern...what does that mean?
 
+(
+Pbind(
+    \note, Pseries(0, 2, 15),
+    \dur, Pgeom(0.1, 1.1, 25),
+    \strum, 0;
+).trace.play;
+)
+// Choosing a strum argument...I can't tell what it's doing...
