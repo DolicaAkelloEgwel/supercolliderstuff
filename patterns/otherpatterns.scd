@@ -44,7 +44,7 @@ Pbind(
     \dur, Pgeom(0.1, 1.1, 25);
 ).trace.play;
 )
-// Pgeom- exponential increase in duration
+// Pgeom - exponential increase in duration
 
 (
 Pbind(
@@ -66,7 +66,7 @@ Pbind(
 Pbind(
     \note, Pseries(0, 2, 15),
     \dur, Pgeom(0.1, 1.1, 25),
-    \strum, 0;
+    \strum, 3;
 ).trace.play;
 )
 // Choosing a strum argument...I can't tell what it's doing...

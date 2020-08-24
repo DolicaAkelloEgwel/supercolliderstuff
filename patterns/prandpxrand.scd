@@ -1,14 +1,14 @@
 s.boot;
 (
 Pbind(
-    \note, Prand([1,2,3,4], 4),
+    \note, Prand([1,2], 4),
     \dur, 0.15;
 ).trace.play;
 )
 
 (
 Pbind(
-    \note, Pxrand([1,2,3,4], 4),
+    \note, Pxrand([1,2], 4),
     \dur, 0.15;
 ).trace.play;
 )
