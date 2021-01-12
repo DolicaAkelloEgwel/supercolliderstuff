@@ -1,5 +1,4 @@
 s.boot;
 
 Env.linen.plot;
-{SinOsc.ar([440,442], mul: Env.triangle.kr(2)}.play;
-{SinOsc.ar([440,442] * Env.triangle.kr(2)}.play;
+{SinOsc.ar([300,350], mul: Env.linen(0.01, 2, 1, 0.2).kr(2))}.play;
