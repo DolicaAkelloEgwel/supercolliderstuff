@@ -9,7 +9,7 @@ s.boot;
 	b = WhiteNoise.ar * Env([1.0,1.0,0.0],[0.01,0.01],\step).ar(0, Impulse.ar(1 )) ;
 	b = FreeVerb.ar(b, 0.5, 0.4)*2.5; // less frequent and louder dry cymbal-y sound
 
-	c = SinOsc.ar(40) * Env.perc(0.01,0.2).ar(0, TDuty.ar(Dseq([7/40,7/40,7/40,7/40],inf)));
+	c = Saw.ar(50) * Env.perc(1/100,1/10).ar(0, TDuty.ar(Dseq([7/40,7/40,7/40,7/40],inf)));
 	10.do{ c = (c.distort + c)*0.65};
 	c = c * 1.5;
 
