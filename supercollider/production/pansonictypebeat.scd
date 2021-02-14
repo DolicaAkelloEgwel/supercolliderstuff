@@ -7,7 +7,7 @@ s.boot;
     a = Impulse.ar(8) * 1.5; // clicking sound
     a = a * LFNoise2.ar; // "disorganised" clicking sound
     a = FreeVerb.ar(a, 0.8, 0.7); // noisy clicking sound /w reverb
-    // a = DelayC.ar(a, delaytime: 0.01, feedback: 1.5); // noisy clicking sound w/ reverb and THEN delay
+    a = DelayC.ar(a, delaytime: 0.01); // noisy clicking sound w/ reverb and THEN delay
 
 /*	b = WhiteNoise.ar * Env([1.0,1.0,0.0],[0.01,0.01],\step).ar(0, Impulse.ar(1 )) ;
 	b = FreeVerb.ar(b, 0.5, 0.4)*2.5; // less frequent and louder dry cymbal-y sound*/
@@ -41,3 +41,5 @@ s.boot;
 
 }.play
 )
+
+s.freeAll;
