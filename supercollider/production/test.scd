@@ -2,11 +2,19 @@ s.boot;
 
 (
 {
-	var a, b, c, d, n, e, f,  out;
+	var a, b, c, d, n, e, f, orig,  out;
 
-    a = Impulse.ar(8) * 1.5; // clicking sound
-    a = a * LFNoise2.ar; // "disorganised" clicking sound
-    a = FreeVerb.ar(a, 0.8, 0.7); // noisy clicking sound /w reverb
+    ~bpm = 400;
+    // a = Saw.ar * 1.5; // clicking sound
+    a = Pulse.ar(~bpm/60,1.5);
+    // a = Ramp.ar(WhiteNoise.ar, ~bpm/60) * 0.3;
+    // 5.do{a = a * LFNoise2.ar}; // "disorganised" clicking sound
+    a = a - (a * LFSaw.ar.cubed.distort * LFNoise2.ar.distort);
+    // 50.do{ a = (a.distort + a) * 0.7};
+    orig = a;
+    2.do{ a = FreeVerb.ar(a, 0.8, 0.7) * 0.7};
+    a = a + orig;
+    // a = a + RLPF.ar(a, ~bpm/60);
     a = DelayC.ar(a, delaytime: 0.01); // noisy clicking sound w/ reverb and THEN delay
 
 /*	b = WhiteNoise.ar * Env([1.0,1.0,0.0],[0.01,0.01],\step).ar(0, Impulse.ar(1 )) ;
@@ -41,5 +49,7 @@ s.boot;
 
 }.play
 )
+
+{ RLPF.ar(Pulse.ar([100, 250], 0.5, 0.1), XLine.kr(8000, 400, 5), 0.05) }.play;
 
 s.freeAll;
