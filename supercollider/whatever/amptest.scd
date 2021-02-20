@@ -10,11 +10,11 @@ SynthDef(\help_sinegrain,
 )
 
 (
-a = Pseq(#[1,02], inf).asStream;
+a = Pseq([1,0], inf).asStream;
 Routine({
     loop({
         Synth(\help_sinegrain, [\mul, a.next.midicps]);
-        0.2.wait;
+        0.5.wait;
     })
 }).play;
 )
