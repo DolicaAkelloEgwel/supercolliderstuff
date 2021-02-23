@@ -3,17 +3,18 @@ s.boot;
 (
 SynthDef(\help_sinegrain,
     { arg out=0, freq=440, sustain=0.05, mul=1;
-        var env;
-        env = EnvGen.kr(Env.perc(0.01, sustain, 0.2), doneAction: Done.freeSelf);
-        Out.ar(out, SinOsc.ar(freq, 0, env, mul=mul))
+        var saw;
+        saw = LFSaw.ar(freq, mul=mul).distort;
+        saw = saw + FreeVerb.ar(saw, 0.8, 0.7);
+        Out.ar(out, saw);
     }).add;
 )
 
 (
-a = Pseq([1,0], inf).asStream;
+a = Pseq([1,0], 10).asStream.midicps;
 Routine({
     loop({
-        Synth(\help_sinegrain, [\mul, a.next.midicps]);
+        Synth(\help_sinegrain, [\mul, a.next]);
         0.5.wait;
     })
 }).play;
