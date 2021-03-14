@@ -1,0 +1,6 @@
+;; a simple program
+define function my-program()
+    begin
+        print "this is a test"
+        play pluck(c4)
+    end
