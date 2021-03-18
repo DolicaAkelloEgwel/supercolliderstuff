@@ -10,3 +10,5 @@ s.boot;
     )
 }.play
 )
+
+SinOsc.ar.play;
