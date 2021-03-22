@@ -9,8 +9,8 @@ SynthDef.new(\pulseTest, {
     wid1 = SinOsc.kr(0.2);
     wid2 = SinOsc.kr(0.1);
 
-    freq1 = PinkNoise.kr(0.2).exprange(fund, fund*maxPartial).round(fund);
-    freq2 = WhiteNoise.kr(0.1).exprange(fund, fund*maxPartial).round(fund/7);
+    freq1 = WhiteNoise.kr(MouseX.kr).exprange(fund, fund*maxPartial).round(fund);
+    freq2 = WhiteNoise.kr(MouseY.kr).exprange(fund, fund*maxPartial).round(fund/7);
 
     delt = SinOsc.kr(0.2);
 
