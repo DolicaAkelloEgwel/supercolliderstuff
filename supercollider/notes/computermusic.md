@@ -22,3 +22,5 @@ Types of Waves:
 Clear pattern: Periodic  
 "Complex" pattern.  
 No pattern: Aperiodic  
+
+![](./patterntypes.png)
