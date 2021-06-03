@@ -36,3 +36,13 @@ The speed of a sound depends on temperature, altitude, and air density. For this
 Wave length and speed are important for understanding echo and reverb, phase cancellation, as well as proper microphone and speaker placement.
 
 ### Frequency
+
+Frequency is the number of cycles per second of a periodic wave. <ins>The musical equivalent of frequency is pitch.</ins>  
+
+Middle C on the piano has a frequency of about 261 cycles per second (261 Hz). The lowest key on the piano is about 50 Hz and the highest is about 4000 Hz.  
+
+There is theoretically no lower limit to audible frequency but pitch begins at 25Hz.  
+
+Melodies and harmonies are made up of frequencies that sound either at the same time or consecutively. We hear them as music if they are *related mathematically.* These relationships are described as intervals, using terms such as octave, fifth, minor, third, and so on.
+
+### Phase
