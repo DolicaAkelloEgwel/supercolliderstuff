@@ -12,8 +12,12 @@ C2 | 32
 C3 | 48
 C4 | 60
 
+[](./steps.png)
+
 ## Sound
 
 ### Patterns, Noise, Periods
 
-A wave with no pattern is _aperiodic_.
+Clear pattern: Periodic  
+"Complex" pattern.  
+No pattern: Aperiodic  
