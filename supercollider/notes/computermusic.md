@@ -12,12 +12,13 @@ C2 | 32
 C3 | 48
 C4 | 60
 
-[](./steps.png)
+![](./steps.png)
 
 ## Sound
 
 ### Patterns, Noise, Periods
 
+Types of Waves:
 Clear pattern: Periodic  
 "Complex" pattern.  
 No pattern: Aperiodic  
