@@ -26,23 +26,34 @@ No pattern: Aperiodic
 ![](./patterntypes.png)
 
 Sounds that have a periodic pattern are heard more or less (to the same degree as the clarity of the pattern) as pitch. The clearer the pattern, the clearer the character of the pitch. The absence of pattern approaches noise. In electronic music and synthesis terms, *noise is a wave with no apparent pattern.*  
-
+  
 The number of times the wave moves through its period in one second is the frequency of the wave, expressed in hertz or cycles.
 
 ### Properties of Sounds
 
 The speed of a sound depends on temperature, altitude, and air density. For this text, <ins>1000 feet per second will be used.</ins>  
-
+  
 Wave length and speed are important for understanding echo and reverb, phase cancellation, as well as proper microphone and speaker placement.
 
 ### Frequency
 
 Frequency is the number of cycles per second of a periodic wave. <ins>The musical equivalent of frequency is pitch.</ins>  
-
+  
 Middle C on the piano has a frequency of about 261 cycles per second (261 Hz). The lowest key on the piano is about 50 Hz and the highest is about 4000 Hz.  
-
+  
 There is theoretically no lower limit to audible frequency but pitch begins at 25Hz.  
-
+  
 Melodies and harmonies are made up of frequencies that sound either at the same time or consecutively. We hear them as music if they are *related mathematically.* These relationships are described as intervals, using terms such as octave, fifth, minor, third, and so on.
+  
+Interval: 2x higher, 1.5x higher, etc.  
+Octave: 440 880, 1200 2400
 
 ### Phase
+
+Phase affects how two waves interact. Doesn't affect how we perceive sound.
+
+### Amplitude
+
+Height of peaks and depths of valleys. Musical equivalent is volume. Amplitude in measured in decibels (db).  
+  
+Like intervals, decibals measure relative rather than absolute amplitude. 
