@@ -83,7 +83,7 @@ The presence or strength of these harmonics is what defines a violin, oboe, pian
 
 **4.1**  
 
-[](./4dot1.png)
+![](./4dot1.png)
 
 Lowest - A  
 Softest - B  
