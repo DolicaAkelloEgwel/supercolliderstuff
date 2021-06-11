@@ -90,4 +90,13 @@ Softest - B
 Highest pitch - B  
 Brightest sound - B  
 Aperiodic - D  
-Periodic - All but D
+Periodic - All but D  
+  
+**4.2**  
+
+Frequency (Hz) | Length (ft)
+--- | ---
+10 | 100 
+250 | 4
+440 | 2.27
+1000 | 1
