@@ -61,5 +61,18 @@ Like intervals, decibals measure relative rather than absolute amplitude. It exp
 In general, the difference between the quietest and the loudest sounds you would want to hear is about 120 dB.
 One level of dynamic [^1] (mezzo forte to forte) is about 7dB.
 
+### Harmonic Structure
+
+Harmonic structure is the presence/strength of <ins>upper harmonics.</ins> The musical equivalent to harmonic
+structure is _tone_ or _timbre_. The graphical representation of timbre is the wave shape.  
+  
+"Bright" sound - Sharp edges to peaks and valleys. (Pulse wave, sawtooth, triangle)  
+"Dull" sound -  Smoother shape. (Sine wave)  
+  
+There is no standard measure for timbre.  
+  
+Things that change timbre: shape of mouth, embouchure, angle of bow, different instruments, etc.  
+  
+The presence or strength of these harmonics is what defines a violin, oboe, piano, a human voice, etc.
 
 [^1]: Variation of loudness between notes/phrases.
