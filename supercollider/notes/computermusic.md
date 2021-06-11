@@ -81,7 +81,7 @@ The presence or strength of these harmonics is what defines a violin, oboe, pian
 
 ### Exercises
 
-**4.1**  
+#### 4.1
 
 ![](./4dot1.png)
 
