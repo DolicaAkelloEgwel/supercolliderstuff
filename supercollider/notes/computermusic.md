@@ -54,6 +54,12 @@ Phase affects how two waves interact. Doesn't affect how we perceive sound.
 
 ### Amplitude
 
-Height of peaks and depths of valleys. Musical equivalent is volume. Amplitude in measured in decibels (db).  
+Height of peaks and depths of valleys. Musical equivalent is volume. Amplitude in measured in decibels (dB).  
   
-Like intervals, decibals measure relative rather than absolute amplitude. 
+Like intervals, decibals measure relative rather than absolute amplitude. It expresses a ratio, rather than an explicit value.  
+  
+In general, the difference between the quietest and the loudest sounds you would want to hear is about 120 dB.
+One level of dynamic [^1] (mezzo forte to forte) is about 7dB.
+
+
+[^1]: Variation of loudness between notes/phrases.
