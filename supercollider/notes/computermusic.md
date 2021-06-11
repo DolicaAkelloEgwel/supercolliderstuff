@@ -80,3 +80,11 @@ The presence or strength of these harmonics is what defines a violin, oboe, pian
 [^2]: the way in which a player applies their mouth to the mouthpiece of a brass or wind instrument, especially as it affects the production of the sound.
 
 ### Exercises
+
+4.1  
+Lowest - A  
+Softest - B  
+Highest pitch - B  
+Brightest sound - B  
+Aperiodic - D  
+Periodic - All but D
