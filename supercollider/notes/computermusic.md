@@ -100,3 +100,8 @@ Frequency (Hz) | Length (ft)
 250 | 4
 440 | 2.27
 1000 | 1
+
+**4.3**
+
+Lowest audible pitch - 20 Hz
+Highest audible pitch - 20 kHz
