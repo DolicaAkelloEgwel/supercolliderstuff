@@ -92,7 +92,7 @@ Brightest sound - B
 Aperiodic - D  
 Periodic - All but D  
   
-**4.2**  
+#### 4.2
 
 Frequency (Hz) | Length (ft)
 --- | ---
@@ -101,7 +101,30 @@ Frequency (Hz) | Length (ft)
 440 | 2.27
 1000 | 1
 
-**4.3**
+#### 4.3
 
-Lowest audible pitch - 20 Hz
+Lowest audible pitch - 20 Hz  
 Highest audible pitch - 20 kHz
+
+#### 4.4
+(2 * 400) / 1000 = 0.4
+#### 4.5
+TODO
+#### 4.6
+TODO
+#### 4.7
+TODO
+#### 4.8
+TODO
+
+## Party Conversation
+
+### Constuctive and Destructive Inteference
+
+In constructive interference, the amplitudes of the two waves add together resulting in a higher wave at the point they meet. In destructive interference, the two waves cancel out resulting in a lower amplitude at the point they meet.
+
+![](./inteference.png)
+
+[Constructive and Desctructive Inteference](https://www.phys.uconn.edu/~gibson/Notes/Section5_2/Sec5_2.htm)
+
+### Musical Intervals
