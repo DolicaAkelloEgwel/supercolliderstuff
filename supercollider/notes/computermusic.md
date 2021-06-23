@@ -128,3 +128,19 @@ In constructive interference, the amplitudes of the two waves add together resul
 [Constructive and Desctructive Inteference](https://www.phys.uconn.edu/~gibson/Notes/Section5_2/Sec5_2.htm)
 
 ### Musical Intervals
+
+When two waves are related by some ratio, we hear the aggregate interference patterns as a musical interval. Complex or remote relationships (difficult math) make us uneasy, sound dark, even scary. Simple relationships are predictable, relaxing, maybe boring.  
+
+![](./inteferencefrequencies.png)
+
+The interval between two notes is the distance between two pitches - in other words, how much higher or lower one note is than the other. The concept is so important that it is impossible to talk about scales, chords, harmonic progression, cadence, or dissonace without referring to intervals. 
+  
+Scientists usally descrive the distance between two pitches in terms of the difference between their frequencies. Musicians find it more useful to talk about interval. Intervals can be described using _half-steps_ or _whole-steps_.
+
+Interval | Frequency
+--- | ---
+10 | 100 
+250 | 4
+440 | 2.27
+1000 | 1
+
