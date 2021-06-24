@@ -137,10 +137,5 @@ The interval between two notes is the distance between two pitches - in other wo
   
 Scientists usally descrive the distance between two pitches in terms of the difference between their frequencies. Musicians find it more useful to talk about interval. Intervals can be described using _half-steps_ or _whole-steps_.
 
-Interval | Frequency
---- | ---
-10 | 100 
-250 | 4
-440 | 2.27
-1000 | 1
+Intervals are described using numbers depending on how many letter names of the musical alphabet are between two notes. Two notes = second, three notes = third, etc.
 
