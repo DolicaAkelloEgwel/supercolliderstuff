@@ -123,7 +123,7 @@ TODO
 
 In constructive interference, the amplitudes of the two waves add together resulting in a higher wave at the point they meet. In destructive interference, the two waves cancel out resulting in a lower amplitude at the point they meet.
 
-![](./inteference.png)
+![](./interference.png)
 
 [Constructive and Destructive Interference](https://www.phys.uconn.edu/~gibson/Notes/Section5_2/Sec5_2.htm)
 
@@ -131,7 +131,7 @@ In constructive interference, the amplitudes of the two waves add together resul
 
 When two waves are related by some ratio, we hear the aggregate interference patterns as a musical interval. Complex or remote relationships (difficult maths) make us uneasy, sound dark, even scary. Simple relationships are predictable, relaxing, maybe boring.  
 
-![](./inteferencefrequencies.png)
+![](./interferencefrequencies.png)
 
 The interval between two notes is the distance between two pitches - in other words, how much higher or lower one note is than the other. The concept is so important that it is impossible to talk about scales, chords, harmonic progression, cadence, or dissonance without referring to intervals.
 
