@@ -26,25 +26,25 @@ No pattern: Aperiodic
 ![](./patterntypes.png)
 
 Sounds that have a periodic pattern are heard more or less (to the same degree as the clarity of the pattern) as pitch. The clearer the pattern, the clearer the character of the pitch. The absence of pattern approaches noise. In electronic music and synthesis terms, *noise is a wave with no apparent pattern.*  
-  
+
 The number of times the wave moves through its period in one second is the frequency of the wave, expressed in hertz or cycles.
 
 ### Properties of Sounds
 
 The speed of a sound depends on temperature, altitude, and air density. For this text, <ins>1000 feet per second will be used.</ins>  
-  
+
 Wave length and speed are important for understanding echo and reverb, phase cancellation, as well as proper microphone and speaker placement.
 
 ### Frequency
 
 Frequency is the number of cycles per second of a periodic wave. <ins>The musical equivalent of frequency is pitch.</ins>  
-  
+
 Middle C on the piano has a frequency of about 261 cycles per second (261 Hz). The lowest key on the piano is about 50 Hz and the highest is about 4000 Hz.  
-  
+
 There is theoretically no lower limit to audible frequency but pitch begins at 25Hz.  
-  
+
 Melodies and harmonies are made up of frequencies that sound either at the same time or consecutively. We hear them as music if they are *related mathematically.* These relationships are described as intervals, using terms such as octave, fifth, minor, third, and so on.
-  
+
 Interval: 2x higher, 1.5x higher, etc.  
 Octave: 440 880, 1200 2400
 
@@ -55,9 +55,9 @@ Phase affects how two waves interact. Doesn't affect how we perceive sound.
 ### Amplitude
 
 Height of peaks and depths of valleys. Musical equivalent is volume. Amplitude in measured in decibels (dB).  
-  
-Like intervals, decibals measure relative rather than absolute amplitude. It expresses a ratio, rather than an explicit value.  
-  
+
+Like intervals, decibels measure relative rather than absolute amplitude. It expresses a ratio, rather than an explicit value.  
+
 In general, the difference between the quietest and the loudest sounds you would want to hear is about 120 dB.
 One level of dynamic [^1] (mezzo forte to forte) is about 7dB.
 
@@ -67,14 +67,14 @@ One level of dynamic [^1] (mezzo forte to forte) is about 7dB.
 
 Harmonic structure is the presence/strength of <ins>upper harmonics.</ins> The musical equivalent to harmonic
 structure is _tone_ or _timbre_. The graphical representation of timbre is the wave shape.  
-  
+
 "Bright" sound - Sharp edges to peaks and valleys. (Pulse wave, sawtooth, triangle)  
 "Dull" sound -  Smoother shape. (Sine wave)  
-  
+
 There is no standard measure for timbre.  
-  
+
 Things that change timbre: shape of mouth, embouchure [^2], angle of bow, different instruments, etc.  
-  
+
 The presence or strength of these harmonics is what defines a violin, oboe, piano, a human voice, etc.
 
 [^2]: the way in which a player applies their mouth to the mouthpiece of a brass or wind instrument, especially as it affects the production of the sound.
@@ -91,12 +91,12 @@ Highest pitch - B
 Brightest sound - B  
 Aperiodic - D  
 Periodic - All but D  
-  
+
 #### 4.2
 
 Frequency (Hz) | Length (ft)
 --- | ---
-10 | 100 
+10 | 100
 250 | 4
 440 | 2.27
 1000 | 1
@@ -129,13 +129,12 @@ In constructive interference, the amplitudes of the two waves add together resul
 
 ### Musical Intervals
 
-When two waves are related by some ratio, we hear the aggregate interference patterns as a musical interval. Complex or remote relationships (difficult math) make us uneasy, sound dark, even scary. Simple relationships are predictable, relaxing, maybe boring.  
+When two waves are related by some ratio, we hear the aggregate interference patterns as a musical interval. Complex or remote relationships (difficult maths) make us uneasy, sound dark, even scary. Simple relationships are predictable, relaxing, maybe boring.  
 
 ![](./inteferencefrequencies.png)
 
-The interval between two notes is the distance between two pitches - in other words, how much higher or lower one note is than the other. The concept is so important that it is impossible to talk about scales, chords, harmonic progression, cadence, or dissonace without referring to intervals. 
-  
-Scientists usally descrive the distance between two pitches in terms of the difference between their frequencies. Musicians find it more useful to talk about interval. Intervals can be described using _half-steps_ or _whole-steps_.
+The interval between two notes is the distance between two pitches - in other words, how much higher or lower one note is than the other. The concept is so important that it is impossible to talk about scales, chords, harmonic progression, cadence, or dissonance without referring to intervals.
+
+Scientists usually describe the distance between two pitches in terms of the difference between their frequencies. Musicians find it more useful to talk about interval. Intervals can be described using _half-steps_ or _whole-steps_.
 
 Intervals are described using numbers depending on how many letter names of the musical alphabet are between two notes. Two notes = second, three notes = third, etc.
-
