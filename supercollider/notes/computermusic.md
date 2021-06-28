@@ -119,13 +119,13 @@ TODO
 
 ## Party Conversation
 
-### Constuctive and Destructive Inteference
+### Constructive and Destructive Interference
 
 In constructive interference, the amplitudes of the two waves add together resulting in a higher wave at the point they meet. In destructive interference, the two waves cancel out resulting in a lower amplitude at the point they meet.
 
 ![](./inteference.png)
 
-[Constructive and Desctructive Inteference](https://www.phys.uconn.edu/~gibson/Notes/Section5_2/Sec5_2.htm)
+[Constructive and Destructive Interference](https://www.phys.uconn.edu/~gibson/Notes/Section5_2/Sec5_2.htm)
 
 ### Musical Intervals
 
