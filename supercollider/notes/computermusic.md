@@ -125,16 +125,21 @@ In constructive interference, the amplitudes of the two waves add together resul
 
 ![](./interference.png)
 
-[Constructive and Destructive Interference](https://www.phys.uconn.edu/~gibson/Notes/Section5_2/Sec5_2.htm)
+[More on Constructive and Destructive Interference](https://www.phys.uconn.edu/~gibson/Notes/Section5_2/Sec5_2.htm)
 
 ### Musical Intervals
+(Page 40)  
 
 When two waves are related by some ratio, we hear the aggregate interference patterns as a musical interval. Complex or remote relationships (difficult maths) make us uneasy, sound dark, even scary. Simple relationships are predictable, relaxing, maybe boring.  
 
 ![](./interferencefrequencies.png)
 
-The interval between two notes is the distance between two pitches - in other words, how much higher or lower one note is than the other. The concept is so important that it is impossible to talk about scales, chords, harmonic progression, cadence, or dissonance without referring to intervals.
+The interval between two notes is the distance between two pitches - in other words, how much higher or lower one note is than the other. The concept is so important that it is impossible to talk about scales, chords, harmonic progression, cadence, or dissonance without referring to intervals.  
 
-Scientists usually describe the distance between two pitches in terms of the difference between their frequencies. Musicians find it more useful to talk about interval. Intervals can be described using _half-steps_ or _whole-steps_.
+Scientists usually describe the distance between two pitches in terms of the difference between their frequencies. Musicians find it more useful to talk about interval. Intervals can be described using _half-steps_ or _whole-steps_.  
 
 Intervals are described using numbers depending on how many letter names of the musical alphabet are between two notes. Two notes = second, three notes = third, etc.
+
+Pitches derived from multiples (overtones, harmonics) make up musical scales. When a group of such notes are played together they seek a tonal centre of gravity. The centre of gravity is the lowest common denominator, or the lowest frequency of the multiples. When they are played sequentially or consecutively our ears accept the lower pitches on the harmonic series as stronger or more stable, the fundamental being the strongest; a home base.  
+
+Western tonal music is built using motion away from the stable, or consonant structures, to dissonant structures, to dissonant structures and back to consonant again. That motion, and the relative consonance/dissonance in infinite variation, is what we find satisfying in the works of Bach, Wagner, Schoenberg, Chick, Corea, and Alison Kraus. All styles can be boiled down to motion to and from low ratios and high rations, consonance and dissonance, structure and prolongation, stability and instability, low on the harmonic scale to high on the harmonic scale, tonic to dominant to tonic.
