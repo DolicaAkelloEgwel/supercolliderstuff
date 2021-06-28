@@ -15,10 +15,9 @@ C4 | 60
 ![](./steps.png)
 
 ## Sound
-
 ### Patterns, Noise, Periods
 
-Types of Waves:
+Types of Waves:  
 Clear pattern: Periodic  
 "Complex" pattern.  
 No pattern: Aperiodic  
@@ -58,10 +57,9 @@ Height of peaks and depths of valleys. Musical equivalent is volume. Amplitude i
 
 Like intervals, decibels measure relative rather than absolute amplitude. It expresses a ratio, rather than an explicit value.  
 
-In general, the difference between the quietest and the loudest sounds you would want to hear is about 120 dB.
-One level of dynamic [^1] (mezzo forte to forte) is about 7dB.
+In general, the difference between the quietest and the loudest sounds you would want to hear is about 120 dB. One level of dynamic<sup>[1](#dynamic)</sup> (mezzo forte to forte) is about 7dB.
 
-[^1]: Variation of loudness between notes/phrases.
+[<a name="dynamic">1</a>]: Variation of loudness between notes/phrases.
 
 ### Harmonic Structure
 
@@ -73,11 +71,11 @@ structure is _tone_ or _timbre_. The graphical representation of timbre is the w
 
 There is no standard measure for timbre.  
 
-Things that change timbre: shape of mouth, embouchure [^2], angle of bow, different instruments, etc.  
+Things that change timbre: shape of mouth, embouchure<sup>[2](#embouchure)</sup> , angle of bow, different instruments, etc.  
 
 The presence or strength of these harmonics is what defines a violin, oboe, piano, a human voice, etc.
 
-[^2]: the way in which a player applies their mouth to the mouthpiece of a brass or wind instrument, especially as it affects the production of the sound.
+[<a name="embouchure">2</a>]: the way in which a player applies their mouth to the mouthpiece of a brass or wind instrument, especially as it affects the production of the sound.
 
 ### Exercises
 
