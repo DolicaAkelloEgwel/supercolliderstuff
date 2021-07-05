@@ -141,3 +141,9 @@ Intervals are described using numbers depending on how many letter names of the 
 Pitches derived from multiples (overtones, harmonics) make up musical scales. When a group of such notes are played together they seek a tonal centre of gravity. The centre of gravity is the lowest common denominator, or the lowest frequency of the multiples. When they are played sequentially or consecutively our ears accept the lower pitches on the harmonic series as stronger or more stable, the fundamental being the strongest; a home base.  
 
 Western tonal music is built using motion away from the stable, or consonant structures, to dissonant structures, to dissonant structures and back to consonant again. That motion, and the relative consonance/dissonance in infinite variation, is what we find satisfying in the works of Bach, Wagner, Schoenberg, Chick, Corea, and Alison Kraus. All styles can be boiled down to motion to and from low ratios and high rations, consonance and dissonance, structure and prolongation, stability and instability, low on the harmonic scale to high on the harmonic scale, tonic to dominant to tonic.
+
+### Tuning, Temperament, and the Pythagorean Comma
+
+Pianos (and other fretted instruments) are not in tune. By nature, they cannot be tuned correctly to pure rations. There are not enough keys of frets (and the frets are fixed).
+
+While non-fretted instruments and the human voice can tune to pure ratios, in many cases they don't. For example, when a choir sings with piano accompaniment. They tune to the piano, which is incorrect.
