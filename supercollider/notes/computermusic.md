@@ -147,3 +147,11 @@ Western tonal music is built using motion away from the stable, or consonant str
 Pianos (and other fretted instruments) are not in tune. By nature, they cannot be tuned correctly to pure rations. There are not enough keys of frets (and the frets are fixed).
 
 While non-fretted instruments and the human voice can tune to pure ratios, in many cases they don't. For example, when a choir sings with piano accompaniment. They tune to the piano, which is incorrect.
+
+### Exercises
+
+TODO
+
+## Sound Quality, Recording, and Editing Techniques
+
+Current standard for CD quality audio is stereo, 44.1k sampling rate, 16 bit depth. We can hear up to 22k and distinguish amplitudes ranging 90db. 44.1k can capture a 22k wave, 16 bit produces a 144db dynamic range.
