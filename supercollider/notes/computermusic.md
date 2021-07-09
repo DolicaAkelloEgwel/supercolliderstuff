@@ -155,3 +155,16 @@ TODO
 ## Sound Quality, Recording, and Editing Techniques
 
 Current standard for CD quality audio is stereo, 44.1k sampling rate, 16 bit depth. We can hear up to 22k and distinguish amplitudes ranging 90db. 44.1k can capture a 22k wave, 16 bit produces a 144db dynamic range.
+
+## Sample Rate
+
+3 issues that affect sampling rate:
+- frequency range
+- aliasing
+- file size
+
+Sampling rate for CDs is based on Nyquist theorem:
+
+> In order to adequately reproduce a signal it should be periodically samples at a rate that is 2x the highest frequency you wish to record.
+
+A sampling rate is considered high if it is more than 2x the highest frequency. This is called "oversampling." Not always a bad thing, but takes longer and results in a greater file size.
