@@ -168,3 +168,9 @@ Sampling rate for CDs is based on Nyquist theorem:
 > In order to adequately reproduce a signal it should be periodically samples at a rate that is 2x the highest frequency you wish to record.
 
 A sampling rate is considered high if it is more than 2x the highest frequency. This is called "oversampling." Not always a bad thing, but takes longer and results in a greater file size.
+
+Most instruments product frequencies beyond our hearing range. These frequencies are still important for two reasons:
+1. Aliasing may occur at frequencies above the sample rate. Recording at a higher sampling rate reduces the risk of aliasing.
+2. Frequencies beyond human perception interact to produce artifacts in lower frequencies. (In other words, natural aliasing.)
+
+There is always the option to down sample but not up sample. So a high sampling rate is a safer bet.
