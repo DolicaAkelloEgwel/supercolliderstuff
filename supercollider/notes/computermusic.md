@@ -174,3 +174,9 @@ Most instruments product frequencies beyond our hearing range. These frequencies
 2. Frequencies beyond human perception interact to produce artifacts in lower frequencies. (In other words, natural aliasing.)
 
 There is always the option to down sample but not up sample. So a high sampling rate is a safer bet.
+
+## Bit Depth
+
+Sample rate is how many samples are taken per second. Bit depth is the size of the numbers used for the samples. Bit depth represents amplitude, since larger numbers can accurately describe wider ranges of amplitude. Each additional bit translates into an additional 7db range. The difference between 8 and 16 bit is about 50db. So recording at 8 bit is analogous to recording at -50db.
+
+**Recording at lower bit depth adds noise, or a grainy sound.** If you tried to sample a wave using only 4 bit numbers, no matter how high the sampling rate was, the results would be grainy. The grainy sound comes from a soft of *rounding down* or *quantization* to the nearest integer. (Page 47)
