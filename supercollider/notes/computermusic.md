@@ -196,8 +196,10 @@ Sources of noise: DA conversion noise - low sample rate/bit depth. **Noise canno
 Example: An amplifier has a -80db signal-to-noise ratio. This means that if you were to increase the **gain** of a signal by 80db, the background noise from the amp will be as loud as the signal you are listening to.
 
 Strategies for Dealing With Noise:
-- Quality equipment.
-- Reduce noise source, record in a quiet location.
-- Set optimum levels (requires engineering skills)
-- Use appropriate microphone proximity
-- Use digital noise reduction (Last resort)
+1. Quality equipment
+2. Reduce noise source, record in a quiet location.  
+3. Set optimum levels (requires engineering skills)  
+A lower recording level is closer to the bed of noise you want to be above. Before recording a source, you should set **input gain** as high as possible without causing **distortion**.
+4. Use appropriate microphone proximity  
+This increases the signal in relation to noise. However, depending on the situation, placing the microphone further away may actually be desirable. One example is if the recording environment is a hall with good acoustics. In this case, the hall reverb is not considered "noise."
+5. Use digital noise reduction (Last resort)  Ideally this would not be used at all as it always compromises the quality of the signal you wish to keep. **Signal processors** are used to compensate for poor engineering and poor quality equipment.
