@@ -194,3 +194,10 @@ Attention to efficiency and economy reflect the skills of an engineer. 44K, 16bi
 Sources of noise: DA conversion noise - low sample rate/bit depth. **Noise cannot be eliminated completely in a recording.** The presence of noise is expressed as the signal-to-noise ratio, measured in db.
 
 Example: An amplifier has a -80db signal-to-noise ratio. This means that if you were to increase the **gain** of a signal by 80db, the background noise from the amp will be as loud as the signal you are listening to.
+
+Strategies for Dealing With Noise:
+- Quality equipment.
+- Reduce noise source, record in a quiet location.
+- Set optimum levels (requires engineering skills)
+- Use appropriate microphone proximity
+- Use digital noise reduction (Last resort)
