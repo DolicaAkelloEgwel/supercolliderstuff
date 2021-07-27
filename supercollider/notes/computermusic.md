@@ -203,3 +203,7 @@ A lower recording level is closer to the bed of noise you want to be above. Befo
 4. Use appropriate microphone proximity  
 This increases the signal in relation to noise. However, depending on the situation, placing the microphone further away may actually be desirable. One example is if the recording environment is a hall with good acoustics. In this case, the hall reverb is not considered "noise."
 5. Use digital noise reduction (Last resort)  Ideally this would not be used at all as it always compromises the quality of the signal you wish to keep. **Signal processors** are used to compensate for poor engineering and poor quality equipment.
+
+## Distortion
+
+Distortion is the **misrepresentation of a wave**. This can occur when there is a low sample or low bit rate, and appears as jagged edges. Distortion should be avoided when trying to accurately represent a signal, but it can be used creatively.
