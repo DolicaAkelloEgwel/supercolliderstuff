@@ -207,3 +207,5 @@ This increases the signal in relation to noise. However, depending on the situat
 ## Distortion
 
 Distortion is the **misrepresentation of a wave**. This can occur when there is a low sample or low bit rate, and appears as jagged edges. Distortion should be avoided when trying to accurately represent a signal, but it can be used creatively.
+
+Disortion typically comes from pushing an audio device beyong its physical capacity to respond. The medium is then "saturated" or overdriven. When the source goes beyond that physical barrier it is not reproduced and therefore lost, or clipped. The result is the loss of upper frequency and a fuzzy or gravely sound.
