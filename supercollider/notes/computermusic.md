@@ -211,3 +211,7 @@ Distortion is the **misrepresentation of a wave**. This can occur when there is 
 Disortion typically comes from pushing an audio device beyong its physical capacity to respond. The medium is then "saturated" or overdriven. When the source goes beyond that physical barrier it is not reproduced and therefore lost, or clipped. The result is the loss of upper frequency and a fuzzy or gravely sound.
 
 It is possible to overdrive a microphone by placing it too close to the source. The most common source of distorion is saturing an electrical or digital component in the signal path.
+
+Other things related to recording/production on pages 50-58.
+
+# Digital Synthesis Using SuperCollider
