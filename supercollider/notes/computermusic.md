@@ -215,3 +215,8 @@ It is possible to overdrive a microphone by placing it too close to the source. 
 Other things related to recording/production on pages 50-58.
 
 # Digital Synthesis Using SuperCollider
+
+Basic Patch
+```supercollider
+{SinOsc.ar(LFNoise0.ar([10, 15], 400, 800), 0, 0.3)}.play
+```
