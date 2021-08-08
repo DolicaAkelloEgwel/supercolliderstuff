@@ -216,7 +216,14 @@ Other things related to recording/production on pages 50-58.
 
 # Digital Synthesis Using SuperCollider
 
+Hello World
+```supercollider
+"Hello World".speak;
+```
+
 Basic Patch
 ```supercollider
 {SinOsc.ar(LFNoise0.ar([10, 15], 400, 800), 0, 0.3)}.play
 ```
+
+
