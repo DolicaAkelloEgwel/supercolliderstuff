@@ -225,5 +225,11 @@ Basic Patch
 ```supercollider
 {SinOsc.ar(LFNoise0.ar([10, 15], 400, 800), 0, 0.3)}.play
 ```
+## Objects, messages, arguments, variables, functions, and arrays
 
-
+Objects - In SuperCollider, everything is an object.  
+Messages - 
+Arguments -
+Variables -
+Functions - 
+Arrays - 
