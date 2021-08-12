@@ -228,8 +228,8 @@ Basic Patch
 ## Objects, messages, arguments, variables, functions, and arrays
 
 Objects - In SuperCollider, everything is an object.  
-Messages - 
-Arguments -
+Messages - Typically follow objects seperated by a dot.  
+Arguments - 
 Variables -
 Functions - 
 Arrays - 
