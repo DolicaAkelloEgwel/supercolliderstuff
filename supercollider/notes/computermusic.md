@@ -229,7 +229,8 @@ Basic Patch
 
 Objects - In SuperCollider, everything is an object.  
 Messages - Typically follow objects seperated by a dot.  
-Arguments - 
-Variables -
+Variables - User defined names with memory locations, **beginning with lower case**.
 Functions - 
 Arrays - 
+
+
