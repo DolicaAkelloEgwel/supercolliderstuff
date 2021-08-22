@@ -232,7 +232,6 @@ Messages - Typically follow objects seperated by a dot.
 Variables - User defined names with memory locations, **beginning with lower case**.  
 Functions - Anything enclosed in braces.   
 Arrays - List of items separated by commas, enclosed in brackets.
-Expression -  
 Ugens - Represent calculations with signals.  
   
 By default `{SinOsc.ar}.play` will use 440Hz, 1.0 amplitude, and 0 phase.
