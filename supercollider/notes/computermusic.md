@@ -235,3 +235,9 @@ Arrays - List of items separated by commas, enclosed in brackets.
 Ugens - Represent calculations with signals.  
   
 By default `{SinOsc.ar}.play` will use 440Hz, 1.0 amplitude, and 0 phase.
+
+TODO - remainder
+
+# Writing to an Audio File
+
+
