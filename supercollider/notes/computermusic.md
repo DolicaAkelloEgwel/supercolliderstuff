@@ -240,4 +240,4 @@ TODO - remainder
 
 # Writing to an Audio File
 
-Amplitude can lead to output saturation, clipping, or distortion. The quality of the sound typically isn't affected by phase.
+The musical term for amplitude is volume or dynamics. Amplitude that is too high can lead to output saturation, clipping, or distortion. The quality of the sound typically isn't affected by phase.
