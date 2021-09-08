@@ -233,7 +233,7 @@ Variables - User defined names with memory locations, **beginning with lower cas
 Functions - Anything enclosed in braces.   
 Arrays - List of items separated by commas, enclosed in brackets.
 Ugens - Represent calculations with signals.  
-  
+
 By default `{SinOsc.ar}.play` will use 440Hz, 1.0 amplitude, and 0 phase.
 
 TODO - remainder
@@ -241,3 +241,9 @@ TODO - remainder
 # Writing to an Audio File
 
 The musical term for amplitude is volume or dynamics. Amplitude that is too high can lead to output saturation, clipping, or distortion. The quality of the sound typically isn't affected by phase.
+
+## Periods, Shape, and timbre
+
+Sound source not perceived as having pitch: `{WhiteNoise.ar(0.7).scope(1)}`
+
+The sound doesn't move smoothly from 0 -> 1 -> 0 -> -1 -> 0 in a repeated motion. Periodic waves are heard as pitched, aperiodic waves are not heard as pitched.
