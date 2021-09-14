@@ -246,4 +246,4 @@ The musical term for amplitude is volume or dynamics. Amplitude that is too high
 
 Sound source not perceived as having pitch: `{WhiteNoise.ar(0.7).scope(1)}`
 
-The sound doesn't move smoothly from 0 -> 1 -> 0 -> -1 -> 0 in a repeated motion. Periodic waves are heard as pitched, aperiodic waves are not heard as pitched.
+The sound doesn't move smoothly from 0 -> 1 -> 0 -> -1 -> 0 in a repeated motion. Periodic waves are heard as pitched, aperiodic waves are not heard as pitched. Frequency is pitch, size of the wave or amplitude is volume.
