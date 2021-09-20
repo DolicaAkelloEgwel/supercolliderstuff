@@ -242,8 +242,8 @@ TODO - remainder
 
 The musical term for amplitude is volume or dynamics. Amplitude that is too high can lead to output saturation, clipping, or distortion. The quality of the sound typically isn't affected by phase.
 
-## Periods, Shape, and timbre
+## Periods, Shape, and Timbre
 
-Sound source not perceived as having pitch: `{WhiteNoise.ar(0.7).scope(1)}`
+Sound source not perceived as having pitch: `{WhiteNoise.ar(0.7).scope(1)}`  
 
 The sound doesn't move smoothly from 0 -> 1 -> 0 -> -1 -> 0 in a repeated motion. Periodic waves are heard as pitched, aperiodic waves are not heard as pitched. Frequency is pitch, size of the wave or amplitude is volume.
