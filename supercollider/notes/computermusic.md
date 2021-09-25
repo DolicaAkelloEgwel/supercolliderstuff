@@ -247,3 +247,13 @@ The musical term for amplitude is volume or dynamics. Amplitude that is too high
 Sound source not perceived as having pitch: `{WhiteNoise.ar(0.7).scope(1)}`  
 
 The sound doesn't move smoothly from 0 -> 1 -> 0 -> -1 -> 0 in a repeated motion. Periodic waves are heard as pitched, aperiodic waves are not heard as pitched. Frequency is pitch, size of the wave or amplitude is volume.
+
+```supercollider
+s.boot;
+// Example 9.5
+(
+{Out.ar(0, In.ar(MouseY.kr(15, 23).div(1), 1) * 0.8)}.scope;
+{Out.ar(16, [SinOsc.ar, Saw.ar, Pulse.ar, LFTri.ar, LFNoise0.ar(200), Dust.ar(100), PinkNoise.ar, WhiteNoise.ar])}.play
+)
+```
+In this example, the mouse can be moved up and down to use a different wave shape. `LFNoise0` and `LFNoise1` are aperiodic waves. `LFNoise0` genereates discrete step values while `LFNoise` create interpolated/ramped values.
