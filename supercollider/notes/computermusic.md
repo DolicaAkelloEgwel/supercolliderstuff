@@ -256,8 +256,7 @@ s.boot;
 {Out.ar(16, [SinOsc.ar, Saw.ar, Pulse.ar, LFTri.ar, LFNoise0.ar(200), Dust.ar(100), PinkNoise.ar, WhiteNoise.ar])}.play
 )
 ```
-In this example, the mouse can be moved up and down to use a different wave shape. `LFNoise0` and `LFNoise1` are aperiodic waves. `LFNoise0` genereates discrete step values while `LFNoise` create interpolated/ramped values.
+In this example, the mouse can be moved up and down to use a different wave shape. `LFNoise0` and `LFNoise1` are aperiodic waves. `LFNoise0` genereates discrete step values while `LFNoise1` create interpolated/ramped values.
 
-![](./noise.png)
-
+![Left - LFNoise0, Right - LfNoise1](./noise.png)
 
