@@ -257,3 +257,7 @@ s.boot;
 )
 ```
 In this example, the mouse can be moved up and down to use a different wave shape. `LFNoise0` and `LFNoise1` are aperiodic waves. `LFNoise0` genereates discrete step values while `LFNoise` create interpolated/ramped values.
+
+![](./noise.png)
+
+
