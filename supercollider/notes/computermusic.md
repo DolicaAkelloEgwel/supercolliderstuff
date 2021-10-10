@@ -269,7 +269,12 @@ The second argument to `SinOsc` is the phase. Different phase arguments do not a
   
 Example of cancellation:  
 ```supercollider
+(
+{
 a = SinOsc.ar(400, mul: 0.3);
 b = SinOsc.ar(400, MouseX.kr(0, 2pi), mul: 0.3);
+[a + b, 0, a, b]
+}.scope
+)
 ```
 When the mouse reaches the maximum X value the signals will cancel each other out. The argument is given in radians.
