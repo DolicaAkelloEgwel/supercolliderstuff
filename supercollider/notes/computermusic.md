@@ -265,4 +265,11 @@ In this example, the mouse can be moved up and down to use a different wave shap
 ```supercollider
 {SinOsc.ar(500, 0, 0.7)}.scope(1)
 ```
-The second argument to `SinOsc` is the phase. Different phase arguments do not affect a sound, but do affect how waves interact. They also affect a sound if it is being used as a control sine wave.
+The second argument to `SinOsc` is the phase. Different phase arguments do not affect a sound, but do affect how waves interact. They also affect a sound if it is being used as a control sine wave.  
+  
+Example of cancellation:  
+```supercollider
+a = SinOsc.ar(400, mul: 0.3);
+b = SinOsc.ar(400, MouseX.kr(0, 2pi), mul: 0.3);
+```
+When the mouse reaches the maximum X value the signals will cancel each other out. The argument is given in radians.
