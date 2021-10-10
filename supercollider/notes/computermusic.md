@@ -260,3 +260,9 @@ In this example, the mouse can be moved up and down to use a different wave shap
 
 ![Left - LFNoise0, Right - LfNoise1](./noise.png)
 
+### Phase
+
+```supercollider
+{SinOsc.ar(500, 0, 0.7)}.scope(1)
+```
+The second argument to `SinOsc` is the phase. Different phase arguments do not affect a sound, but do affect how waves interact. They also affect a sound if it is being used as a control sine wave.
